@@ -1,0 +1,270 @@
+[
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539612447732,
+            "changeTime": 1539612447732,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539612447732,
+            "changeTime": 1539612447732,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539613514535,
+            "changeTime": 1539613514535,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539612447732,
+            "changeTime": 1539612447732,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539612532697,
+            "changeTime": 1539612532697,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\objects\\Account\\fields\\AMS_Account_Number__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\objects\\Account\\fields\\AMS_Account_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 387,
+            "modifiedTime": 1539613514503,
+            "changeTime": 1539613514503,
+            "contentHash": "6de76486c8680bd46f8b37f0bfc6d180204e3828"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9640,
+            "modifiedTime": 1539613514503,
+            "changeTime": 1539613514503,
+            "contentHash": "bcbd78c7970bff5f537a0efe6659c95fb3a67a9b"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9640,
+            "modifiedTime": 1539613514519,
+            "changeTime": 1539613514519,
+            "contentHash": "05d9dc065617313d94fcebf0bc62dd6ad0e37a3e"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\layouts\\Account-SBQQ__CPQ Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\layouts\\Account-SBQQ__CPQ Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9979,
+            "modifiedTime": 1539613514519,
+            "changeTime": 1539613514519,
+            "contentHash": "7feb733a7bfc48def967c449c3ba05670da6a285"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9592,
+            "modifiedTime": 1539613514535,
+            "changeTime": 1539613514535,
+            "contentHash": "cbb067487a123baf780ed2ed4574e65a1405754a"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9592,
+            "modifiedTime": 1539613514535,
+            "changeTime": 1539613514535,
+            "contentHash": "ffb209f598ee970a4ce5193ca662b2dd5f6bf017"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4487,
+            "modifiedTime": 1539613514550,
+            "changeTime": 1539613514550,
+            "contentHash": "16e2646f687a497831afe4f9fc5f588135c91236"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4823,
+            "modifiedTime": 1539613514550,
+            "changeTime": 1539613514550,
+            "contentHash": "5f29b69403a212b6b1beb37cc119c947218443b7"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4483,
+            "modifiedTime": 1539613514566,
+            "changeTime": 1539613514566,
+            "contentHash": "feb28aadd02156a169ec26d29d11985ca82f7055"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18007,
+            "modifiedTime": 1539613514581,
+            "changeTime": 1539613514581,
+            "contentHash": "de6f24dc09818b55eeeb5ba3e95b52f7b9d9787c"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539613514503,
+            "changeTime": 1539613514503,
+            "contentHash": "37f93d4803a239d4413e2eaf87888da9d4c0a831"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539613514503,
+            "changeTime": 1539613514503,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539613514488,
+            "changeTime": 1539613514488,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539613514535,
+            "changeTime": 1539613514535,
+            "contentHash": "5ac4b95fd754dd6dcb0cdd00e12782223843c903"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\QTOObjectModel\\QTOObjectModel\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539613514581,
+            "changeTime": 1539613514581,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
