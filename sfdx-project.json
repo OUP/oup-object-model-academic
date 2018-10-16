@@ -1,11 +1,25 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "OUPAcademicObjectModelPackage",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "OUPAcademicObjectModelPackage1",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.2",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "43.0",
+    "packageAliases": {
+        "OUPAcademicObjectModelPackage": "0Ho0N000000PAwtSAG",
+        "OUPAcademicObjectModelPackage1": "0Ho0N000000PAx8SAG"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "43.0"
 }

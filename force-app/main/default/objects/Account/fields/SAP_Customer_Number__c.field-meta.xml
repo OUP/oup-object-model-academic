@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>AMS_Account_Number__c</fullName>
-    <externalId>false</externalId>
-    <label>AMS Account Number</label>
-    <length>10</length>
+    <fullName>SAP_Customer_Number__c</fullName>
+    <caseSensitive>true</caseSensitive>
+    <externalId>true</externalId>
+    <label>SAP Customer Number</label>
+    <length>8</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Text</type>
-    <unique>false</unique>
+    <unique>true</unique>
 </CustomField>

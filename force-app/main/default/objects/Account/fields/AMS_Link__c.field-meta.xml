@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AMS_Link__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF( ISBLANK(AMS_Account_Number__c),&#39;&#39;, &#39;https://ams.oup.com/account/?pf_id=&#39; &amp; AMS_Account_Number__c)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <inlineHelpText>Links to the AMS website using the AMS Account Number. If AMS Account Number is blank, this field is blank as well.</inlineHelpText>
+    <label>AMS Link</label>
+    <required>false</required>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
