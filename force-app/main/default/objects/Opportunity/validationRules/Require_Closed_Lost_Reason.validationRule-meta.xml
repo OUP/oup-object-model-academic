@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Require_Closed_Lost_Reason</fullName>
+    <active>true</active>
+    <errorConditionFormula>ISPICKVAL( StageName , &quot;Closed Lost&quot; ) 
+&amp;&amp; 
+ISPICKVAL( Closed_Lost_Reason__c , &quot;&quot; )</errorConditionFormula>
+    <errorMessage>For stage Closed Lost, pick an appropriate Closed Lost Reason.</errorMessage>
+</ValidationRule>
