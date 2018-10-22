@@ -11,7 +11,7 @@
             "path": "force-app",
             "package": "OUPAcademicObjectModelPackage1",
             "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.3",
+            "versionNumber": "0.1.0.4",
             "default": false
         }
     ],
