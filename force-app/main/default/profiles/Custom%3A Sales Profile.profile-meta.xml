@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>SBQQ__QuoteQuickly</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Contact.Job_Function__c</field>
+        <field>Account.Ringgold_Id__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Sales_Associate_Tiers__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -96,11 +106,29 @@
         <field>Opportunity.SBQQ__RenewedContract__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>OpportunityLineItem.End_Date__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>OpportunityLineItem.Purchase_Model__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>OpportunityLineItem.Start_Date__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account %28Sales%29 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-SBQQ__CPQ Opportunity Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>OpportunityLineItem-Opportunity Product Layout</layout>
     </layoutAssignments>
     <tabVisibilities>
         <tab>standard-Opportunity</tab>
