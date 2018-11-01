@@ -7,9 +7,9 @@
     <lookupFilter>
         <active>true</active>
         <filterItems>
-            <field>Account.Type</field>
+            <field>Account.RecordTypeId</field>
             <operation>equals</operation>
-            <value>Consortium</value>
+            <value>Consortium/Network</value>
         </filterItems>
         <isOptional>false</isOptional>
     </lookupFilter>

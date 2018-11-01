@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Academic_Type__c</fullName>
+    <externalId>false</externalId>
+    <label>Academic Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Academic HE &amp; FE (FTE)</fullName>
+                <default>false</default>
+                <label>Academic HE &amp; FE (FTE)</label>
+            </value>
+            <value>
+                <fullName>Public Library (Population Served)</fullName>
+                <default>false</default>
+                <label>Public Library (Population Served)</label>
+            </value>
+            <value>
+                <fullName>Commercial &amp; Not-For-Profit (Staff with access)</fullName>
+                <default>false</default>
+                <label>Commercial &amp; Not-For-Profit (Staff with access)</label>
+            </value>
+            <value>
+                <fullName>School</fullName>
+                <default>false</default>
+                <label>School</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
